@@ -1,0 +1,22 @@
+{
+  "name": "market-app-backend",
+  "version": "1.0.0",
+  "description": "market app backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barangezen/market-app-backend.git"
+  },
+  "author": "Baran Gezenoglu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barangezen/market-app-backend/issues"
+  },
+  "homepage": "https://github.com/barangezen/market-app-backend#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
